@@ -1,2 +1,1 @@
 Runner.instance_.distanceRan = 12345 / Runner.instance_.distanceMeter.config.COEFFICIENT
-# The score right now will go to 12345 you can change it.
