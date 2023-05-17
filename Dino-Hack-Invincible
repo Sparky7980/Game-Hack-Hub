@@ -1,1 +1,1 @@
-var original = Runner.prototype.gameOver
+var original = Runner.prototype.gameOver; Runner.prototype.gameOver = function (){};
