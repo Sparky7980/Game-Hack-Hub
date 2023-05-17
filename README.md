@@ -6,6 +6,6 @@ Hack Hub for school and home games
   Copy the script then paste in search bar, in blooket like this javascript:(code)
   <p>
 <b>  Dino Game <b><p>
-    Go ahead and press the space bar to start the game. Once the game starts, right-click and select Inspect” to open up Chrome DevTools, then select the Console tab.
+    Go ahead and press the space bar to start the game. Once the game starts, right-click and select Inspect” to open up Chrome DevTools, then select the Console tab. Paste all the codes you want to use in the console zone.
 
 You can also do this by using the Ctrl+Shift+I shortcut, which takes you straight to the Console tab of DevTools.
