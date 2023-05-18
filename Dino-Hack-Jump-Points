@@ -1,0 +1,5 @@
+window.addEventListener("keydown", checkKeyPressed, false);
+function checkKeyPressed(l) {if(l.keyCode=="32" || l.keyCode=="38"){scoreaddh()};
+function scoreaddh() {
+Runner.instance_.distanceRan = Runner.instance_.distanceRan + 100 /
+    Runner.instance_.distanceMeter.config.COEFFICIENT;}}
